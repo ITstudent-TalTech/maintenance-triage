@@ -4,7 +4,7 @@ A small Python tool that reads incoming maintenance requests for commercial buil
 
 It was built as a portfolio project for property management. The data is fictional.
 
-**What it does with each request (Estonian, English or Russian):**
+**What it does with each request (English or Estonian):**
 
 1. **Masks personal data.** E-mails, phone numbers and Estonian ID codes are removed before any text goes to the model.
 2. **Classifies the request.** It finds the system (HVAC, electrical, plumbing, fire safety, elevator, doors/access, cleaning), the priority P1–P4, the location, and a one-line English summary for the technician.

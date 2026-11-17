@@ -110,4 +110,9 @@ data/           20 fictional requests + labels
 tests/          pytest suite
 ```
 
-Author: Petr Zherebtsov. The building maintenance background comes from my *Kinnisvarahooldaja, tase 4* qualification and 10+ years of industrial maintenance work.
+## About this project
+
+Created by Petr Zherebtsov.
+
+- **Code:** written with an AI coding assistant (Claude).
+- **My part:** defining the problem and the rules for urgency, running and testing the tool on a local model, checking the results and documenting what went wrong.
